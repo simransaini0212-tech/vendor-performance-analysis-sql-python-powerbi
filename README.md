@@ -1,4 +1,3 @@
-# vendor-performance-analysis-sql-python-powerbi
 # Vendor Performance Analysis - Retail Inventory &Sales 
 
 Analysing vendor efficiency and profitability to support startegic purchasing and inventory decisions using SQL, Python, and Power BI.  
@@ -87,7 +86,8 @@ Effective inventory and sales management are critical in the retail sector, This
  - Bulk Purchase Savings 
  - Performance Heatmaps
 
-![vendor Performance Dashboard](dashboard.jpg)
+![Vendor Performance Dashboard](images/dashboard.png)
+
 
 
 ## Final & Reccomendation
