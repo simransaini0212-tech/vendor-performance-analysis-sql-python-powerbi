@@ -87,7 +87,7 @@ Effective inventory and sales management are critical in the retail sector, This
  - Bulk Purchase Savings 
  - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.jpg)
+![Vendor Performance Dashboard](Images/dashboard.jpg)
 
 
 
