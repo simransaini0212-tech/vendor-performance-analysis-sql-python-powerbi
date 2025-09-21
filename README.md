@@ -3,16 +3,17 @@
 Analysing vendor efficiency and profitability to support startegic purchasing and inventory decisions using SQL, Python, and Power BI.  
 
 ## Table of Contents
- - [Oerview](#overview)
+- [Overview](#overview)
 - [Business Problem](#business-problem)
 - [Tools & Technologies](#tools--technologies)
-- [Data Cleaning & Preparation](#Data--Cleaning--Preparation)
-- [Exploratory Data Analysis EDA](#Exploratory--Data--Analysis--EDA)
-- [Research Questions & Key Findings](#Research--Questions--Key--Findings)
-- [Dashboard](#Dashboard)
-- [Final & Reccomendation](#Final--Reccomendation)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis EDA](#exploratory-data-analysis-eda)
+- [Research Questions & Key Findings](#research-questions--key-findings)
+- [Dashboard](#dashboard)
+- [Final & Recommendation](#final--recommendation)
 - [How to Run](#how-to-run)
 - [Author](#author)
+
 
 ----
 ## Oerview
